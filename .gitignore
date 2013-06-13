@@ -1,3 +1,8 @@
+# Android Studio:
+.idea/workspace.xml
+.gradle/1.6/taskArtifacts/
+
+
 #################
 ## Eclipse
 #################
